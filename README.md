@@ -1,1 +1,1 @@
-# binary-to-octal
+Binary to octal number converter
